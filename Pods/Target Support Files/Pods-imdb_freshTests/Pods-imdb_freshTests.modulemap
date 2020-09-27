@@ -1,0 +1,6 @@
+framework module Pods_imdb_freshTests {
+  umbrella header "Pods-imdb_freshTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
